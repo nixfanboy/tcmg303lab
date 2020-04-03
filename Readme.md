@@ -3,7 +3,8 @@
 
 ## C++ Program
 
-
+The C++ Program calculates the user's age in years and months, according to user input.
+Usage: ./age
 
 ## Perl Program
 
