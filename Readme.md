@@ -7,7 +7,8 @@
 
 ## Perl Program
 
-The Perl Program goes through a user-specified file and removes whitespace. This is useful for YAML files.
+The Perl Program goes through a user-specified file and reads a specified range of lines.
+Usage: ./range.pl (start line) (end line) (file path)
 
 ## Ruby Program
 
@@ -16,4 +17,4 @@ The Perl Program goes through a user-specified file and removes whitespace. This
 ## Python Program
 
 The Python Program is a simple batch file-name find-and-replace program. It iterates through the working directory to find a user-inputted string and replaces the string with another user-inputted string.
-
+Usage: ./replace.py
