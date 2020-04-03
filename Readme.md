@@ -12,7 +12,8 @@ Usage: ./range.pl (start line) (end line) (file path)
 
 ## Ruby Program
 
-
+The Ruby Program is a random number generator that allows the user to input the range of possible numbers.
+Usage: ./dice.rb
 
 ## Python Program
 
