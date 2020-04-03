@@ -3,7 +3,11 @@
 
 ## C++ Program
 
+
+
 ## Perl Program
+
+The Perl Program goes through a user-specified file and removes whitespace. This is useful for YAML files.
 
 ## Ruby Program
 
